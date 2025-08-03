@@ -7,7 +7,7 @@
 - 🔒 Secure user authentication & authorization with JWT
 - 💬 Real-time messaging with Socket.io
 - 👤 User profiles with customizable avatars
-- 🟢 Live online status indicators
+- 🟢 Live online status indicators  
 - 🎨 32 beautiful themes powered by DaisyUI
 - 📱 Fully responsive design for all devices
 - 🖼️ Image sharing in conversations
