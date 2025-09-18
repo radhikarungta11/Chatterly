@@ -5,7 +5,7 @@
 ## 🌈 Features
 
 - 🔒 Secure user authentication & authorization with JWT
-- 💬 Real-time messaging with Socket.io
+- 💬 Real-time messaging with Socket.io  
 - 👤 User profiles with customizable avatars
 - 🟢 Live online status indicators  
 - 🎨 32 beautiful themes powered by DaisyUI
