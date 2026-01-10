@@ -2,7 +2,7 @@
 
 > 💬 A modern, feature-rich real-time chat application built with the MERN stack
 
-## 🌈 Features
+## 🌈 Features  
 
 - 🔒 Secure user authentication & authorization with JWT
 - 💬 Real-time messaging with Socket.io  
