@@ -1,7 +1,7 @@
 # ✨ Chatterly ✨
 
 > 💬 A modern, feature-rich real-time chat application built with the MERN stack
-
+  
 ## 🌈 Features  
 
 - 🔒 Secure user authentication & authorization with JWT
