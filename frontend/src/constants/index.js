@@ -4,7 +4,7 @@ export const THEMES = [
   "cupcake",
   "bumblebee",
   "emerald",
-  "corporate",
+  "corporate", 
   "synthwave",
   "retro",
   "cyberpunk",
