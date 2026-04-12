@@ -3,7 +3,7 @@ export const THEMES = [
   "dark",
   "cupcake",
   "bumblebee",
-  "emerald",
+  "emerald", 
   "corporate", 
   "synthwave",
   "retro",
